@@ -21,8 +21,19 @@ var students = [
       day: 5
     },
     Career: "IDYGS"
-  }
+  },
 
+  {
+    lname: "Cortes",
+    name: "Brandon",
+    age: 21,
+    birthday: {
+      year: 2000,
+      month: "July",
+      day: 06
+    },
+    Career: "IDYGS"
+  }
 ]
 
   var table = document.getElementsByTagName("table")[0];
